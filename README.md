@@ -17,4 +17,4 @@
  5. GaussianNB
  6. RandomForestClassifier
  7. MLPClassifier
-* Then, using stacking methods, we integrate these five models into a single ensemble model. The main acheivement of this project how to integrate the predictions from each of the five models using a logistic regression model.
+* Then, using stacking methods, we integrate these five models into a single ensemble model. The main acheivement of this project how to integrate the predictions from each of the five models using a logistic regression models.
